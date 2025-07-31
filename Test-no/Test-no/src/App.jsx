@@ -1,4 +1,4 @@
-import React from 'react'
+import Test from "./Test.jsx"
 
 export default function App() {
   return (
